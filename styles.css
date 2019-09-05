@@ -1,1 +1,46 @@
 /* Theodore Nesham */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* heading */
+header {
+  background-color: #f16600;
+  margin: 0;
+  padding: 0;
+  height: 75px;
+}
+
+
+ h1 {
+  margin: 0;
+  padding-top: 13px;
+  padding-left: 10px;
+  height: 50px;
+  font-size: 36px;
+  font-family: monospace;
+}
+
+/* heading */
+
+ /* NAVIGATION Bar*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #0dd
+}
+
+ul li {
+  display: inline;
+  width: 50px;
+  border: 1px solid black;
+}
+
+li a {
+  width: 100px;
+  padding: 0px 50px 0px 50px;
+
+}
+/* NAVIGATION Bar*/
